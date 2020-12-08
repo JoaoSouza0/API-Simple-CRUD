@@ -1,23 +1,22 @@
 # API - Simple CRUD
 
-> Projeto desenvolvido desenvolvido totalmente em NodeJS sem framework para aprimorar a habilidade em backend
+> Projeto desenvolvido totalmente em NodeJS sem framework para aprimorar a habilidade em backend
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Ter o `< insomnia / postman> instalado`
+* Ter o `< Insomnia / Postman> instalado`
 * Ter uma máquina `<Windows / Linux / Mac>`
 * Ter o NodeJS instalado no seu computador
 ## ☕ Usando API - Simple CRUD
 
 Para usar API - Simple CRUD, siga estas etapas:
 
-```
-- Clonar o repositório 
-- Digitar o comando **node index.js** rodar o projeto
 
-```
+- Clonar o repositório 
+- Digitar o comando **node index.js** para rodar o projeto
+
 ## 📫 Contribuindo para API - Simple CRUD
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir com API - Simple CRUD, siga estas etapas:
